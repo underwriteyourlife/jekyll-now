@@ -6,7 +6,7 @@ permalink: /about/
 
 Welcome to Underwrite Your Life!
 
-### More Information
+### More Information ###
 
 	  My name is Emily, and I am *NOT* a personal financial advisor. In fact, 
  	  I'm not even a personal financial planner, CPA, or any other three letter acronym that could somehow qualify me to create a 
@@ -26,6 +26,6 @@ Welcome to Underwrite Your Life!
     Along the way, I plan on sharing some of my own tricks to saving money (like cooking cheap, delicious, meals)
     in order to help people take control of their financial futures.
 
-### Contact me
+### Contact me ###
 
 [underwriteyourlife@gmail.com](mailto:underwriteyourlife@gmail.com)

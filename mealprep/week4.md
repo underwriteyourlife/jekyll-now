@@ -12,7 +12,7 @@ INSERT PHOTO HERE
 
 In case you don't want to click on each recipe individually, all the ingredients you'll need to make this week's meal prep are below:
 
-Ingredient | Amount | Cost | Calories
+Ingredient | Amount | Cost | Calories 
 Flour	|3	cup	| $0.28 |	1320
 Salt	|4	tsp	| $0.04 |	0
 Sugar	|12	tsp	| $0.05 |	180

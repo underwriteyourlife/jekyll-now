@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Underwrite Your Life!
 ---
 
-Welcome to Underwrite Your Life, a blog focused on Personal Finance with the intention of spreading information about how easy it is to tackle DIY Finance.
+My name is Emily. I am an unreserved underwriter, unqualified personal finance enthuasist, and untrained chef here to give you unequivocally unsuitable advice
 
 <!-- insert a photo here ![_config.yml]({{ site.baseurl }}/images/config.png) -->
 

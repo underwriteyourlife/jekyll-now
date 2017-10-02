@@ -47,4 +47,4 @@ Celery|	4	stalks	| $1.25 |	30
 Green Apple|	1	apple|	 $1.29 |	100
 Raisins	|0.5	cup|	 $0.57 |	240
 
-
+All of this comes out to a grand total of $25.34, or $1.41/meal (if you include the rolls as a meal) or $2.11 (if you only count the traditional dishes as meals). For me, it produced 6 lunchs and 6 dinners. If you are looking to increase your calories or if you think that may not be enough, you can always add more lean meats for protien or make double. 

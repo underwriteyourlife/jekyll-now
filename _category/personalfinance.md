@@ -1,4 +1,4 @@
 ---
 tag: Personal Finance
-permalink: "/category/personalfinance
+permalink: "/category/personalfinance"
 ---

@@ -9,7 +9,7 @@ categories:
 
 Ready to get stewin'? Lord knows I wasn't when I started this dish. These coconut curry lentils will be worth the extra cooking time, however, as they are packed with flavor and hold up really well over the course of a week (click here to see the review of how they performed in meal prep Week 4!)
 
-If you are like me (AKA: inefficient and poor), and thus don't own a slowcooker, you can cook these on the stovetop. However, if you have a slow cooker, just add all the ingredients (except the rice and cilantro- you'll have to cook that seprately) and set to cook at high for 4-5 hours. 
+If you are like me (AKA: inefficient and poor), and thus don't own a slow cooker, you can cook these on the stovetop. However, if you have a slow cooker, just add all the ingredients (except the rice and cilantro- you'll have to cook that separately) and set to cook at high for 4-5 hours. 
 
 ![Coconut Curry Lentils](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/coconutlentils/Close%20Up%20of%20Lentils.jpg?raw=true "Finished Coconut Curry Lentils")
 
@@ -69,7 +69,7 @@ While this was cooking, I used my rice cooker to make the rice! I added three cu
 
 Let it cook! I cooked mine on the stove top for about 1-2 hours. However, I realized pretty late into it that my gas bill was going to be exorbitant if I kept using the stove top like that, so I decided to just stick a lid on it and let it sit in its own warmth. I kept an eye on the mixture until it was fully thickened (all the water had been cooked through), which was about 30 minutes. After that, I added the entire can of coconut milk (YUM). I turned back on the stove top on low for an additional 10 minutes, until the coconut milk had thickened. 
 
-I let this whole mixture cool then put it into individual serving containers for lunch! The additonal .75 cups I had left over, I put into a container to freeze for later. Don't forget to top the servings with some chopped red and green onions!
+I let this whole mixture cool then put it into individual serving containers for lunch! The additional .75 cups I had left over, I put into a container to freeze for later. Don't forget to top the servings with some chopped red and green onions!
 
 
 ![Coconut Curry Lentils](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/coconutlentils/Close%20Up%20of%20Lentils.jpg?raw=true "Finished Coconut Curry Lentils")

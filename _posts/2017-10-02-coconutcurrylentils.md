@@ -6,7 +6,6 @@ categories:
 - "recipes"
 - "recipephotos"
 ---
-<title> Coconut Curry Lentils with Cilantro Rice </title>
 
 Ready to get stewin'? Lord knows I wasn't when I started this dish. These coconut curry lentils will be worth the extra cooking time, however, as they are packed with flavor and hold up really well over the course of a week (click here to see the review of how they performed in meal prep Week 4!)
 

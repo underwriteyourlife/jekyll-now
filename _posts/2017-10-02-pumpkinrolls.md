@@ -11,7 +11,7 @@ I would appreciate it if you held off your judgement until you try these pumpkin
 
 So, bear with me until you can try them for yourself and understand why this recipe was completely necessary. 
 
-![rollsfromabove](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/pumpkinrolls/Pumpkin%20Rolls%20(above).jpg?raw=true "Rolls from Above")
+![rollsfromabove](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/pumpkinrolls/Pumpkin%20Rolls%20(above).jpg?raw=true "Rolls from Above")
 
 Here are the ingredients you'll need to cook these suckers! All together it made 24 rolls, or 6 servings of 4 rolls each. It was actually perfect for this week's meal prep, because all together I had exactly 6 "breakfasts", 6 lunches, and 6 dinners made. I put "breakfast" in quotations because while these rolls were intended to be my breakfast, they definitely did not make it that long. That is to say... I might've eaten them all too quickly. 
 
@@ -19,7 +19,7 @@ Anyhoo...
 
 Let's take a gander at making these fluffy gods:
 
-![rollingredients](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/pumpkinrolls/Pumpkin%20Roll%20Ingredients.jpg?raw=true "Total Ingredients")
+![rollingredients](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/pumpkinrolls/Pumpkin%20Roll%20Ingredients.jpg?raw=true "Total Ingredients")
 
 The only ingredient that is not pictured is some pumpkin-spiced cream cheese I picked up when I was at Trader Joe's. It's not necessary, I just couldn't resist adding it in at the last minute. 
 
@@ -45,7 +45,7 @@ As you are stirring, add a few pinches of sugar. For some reasons with which I a
 
 If you do not see this visible change, I recommend you start over with a new yeast packet because it is likely not activated. 
 
-![activatedyeast](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/pumpkinrolls/Yeast.jpg?raw=true "activated yeast")
+![activatedyeast](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/pumpkinrolls/Yeast.jpg?raw=true "activated yeast")
 
 <h2> Step 2 </h2>
 
@@ -53,7 +53,7 @@ Next, while the yeast is sitting, melt 2 tbsp of margarine and 3 tbsp of pumpkin
 
 Only cook it for long enough that it is soft and melted. If it is too hot, it will kill the yeast. So be sure to let it cool a bit before moving on to the next step. 
 
-![melting](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/pumpkinrolls/Melting%20Cream%20Cheese%20and%20Buttter.jpg?raw=true "Melting Butter and Cream Cheese")
+![melting](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/pumpkinrolls/Melting%20Cream%20Cheese%20and%20Buttter.jpg?raw=true "Melting Butter and Cream Cheese")
 
 <h2> Step 3 </h2>
 
@@ -61,7 +61,7 @@ Add the eggs, melted butter/cream cheese, and pureed pumpkin to the yeast and st
 
 Add one cup of flour and mix: 
 
-![addedflour](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/pumpkinrolls/Unmixed%20Dough.jpg?raw=true "Added Flour")
+![addedflour](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/pumpkinrolls/Unmixed%20Dough.jpg?raw=true "Added Flour")
 
 <h2> Step 4 </h2>
 
@@ -69,7 +69,7 @@ Continue to add flour, .5 cups at a time, until you can roll the dough out on yo
 
 This is something that comes with practice baking, so don't worry if you're not completely positive about when it has enough flour. The good thing about this bread is that it's not too finicky in regard to the flour content. 
 
-![doughfirmness](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/pumpkinrolls/Dough%20Firmness.jpg?raw=true "Dough Firmness Test")
+![doughfirmness](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/pumpkinrolls/Dough%20Firmness.jpg?raw=true "Dough Firmness Test")
 
 <h2> Step 5 </h2>
 
@@ -77,7 +77,7 @@ Let the dough sit in an oiled, clean, bowl to rise (about 1 hour). If your yeast
 
 After letting it rest, take your large dough ball and pull it apart. Rub small amounts of dough between your palms to create small dough balls then line them up on an oiled baking sheet. 
 
-![readytocook](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/pumpkinrolls/Unbaked%20Rolls.jpg?raw=true "Dough Ready to Cook")
+![readytocook](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/pumpkinrolls/Unbaked%20Rolls.jpg?raw=true "Dough Ready to Cook")
 
 You can choose to sprinkle the top of the rolls with cinnamon, sugar, and nutmeg once they are on the baking sheet, but it is not necessary. 
 
@@ -85,8 +85,8 @@ You can choose to sprinkle the top of the rolls with cinnamon, sugar, and nutmeg
 
 Pop those cuties into a preheated oven at about 350 degrees Fahrenheit for 20 minutes. They should be golden-brown and firm, but not burnt. If you are unsure if it is fully cooked through, you can poke the largest one with a toothpick. If it comes out clean, the roll is ready. Alternatively, my favorite method is to lightly tap the tops of the rolls with my finger. If there is a hollow sound, that means they are cooked through. 
 
-![Rolls in Oven](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/pumpkinrolls/Pumpkin%20Rolls%20in%20Oven.jpg?raw=true "Rolls in Oven")
+![Rolls in Oven](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/pumpkinrolls/Pumpkin%20Rolls%20in%20Oven.jpg?raw=true "Rolls in Oven")
 
 I love these rolls because they are not too sweet- maintaining that nice balance of bread and dessert. However, if you like sweeter tasting rolls you can replace the pureed pumpkin with pumpkin filling (this usually has pre-added spices and sugar) or simply add more pumpkin-spice flavors (like cinnamon, all spice, nutmeg, and sugar) on your own. 
 
-![Rolls](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/pumpkinrolls/Close-Up%20of%20Pumpkin%20Rolls.jpg?raw=true "Rolls")
+![Rolls](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/pumpkinrolls/Close-Up%20of%20Pumpkin%20Rolls.jpg?raw=true "Rolls")

@@ -1,5 +1,5 @@
 ---
 tag: Meal Prep
-permalink: "/category/mealprep
+permalink: "/category/mealprep"
 ---
 

@@ -11,11 +11,11 @@ Ready to get stewin'? Lord knows I wasn't when I started this dish. These coconu
 
 If you are like me (AKA: inefficient and poor), and thus don't own a slow cooker, you can cook these on the stovetop. However, if you have a slow cooker, just add all the ingredients (except the rice and cilantro- you'll have to cook that separately) and set to cook at high for 4-5 hours. 
 
-![Coconut Curry Lentils](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/coconutlentils/Close%20Up%20of%20Lentils.jpg?raw=true "Finished Coconut Curry Lentils")
+![Coconut Curry Lentils](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/coconutlentils/Close%20Up%20of%20Lentils.jpg?raw=true "Finished Coconut Curry Lentils")
 
 Here are the ingredients you'll need to cook this dish! All together it made 6.5 servings of 1.5 cups each (or just under 10 cups total), with each serving costing $1.87 and putting you back 656 calories. 
 
-![coconutcurryingredients](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/coconutlentils/Coconut%20Lentils%20Ingredients.jpg?raw=true "Total Ingredients")
+![coconutcurryingredients](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/coconutlentils/Coconut%20Lentils%20Ingredients.jpg?raw=true "Total Ingredients")
 
 **Ingredient** | **Amount** | **Cost** |   **Calories**
 |:------------- |:-------------:| :-----:|   -----:|
@@ -41,26 +41,26 @@ In total, that is $12.16 US dollars worth of ingredients and 4260.5 calories.
 
 I always like to just go ahead and chop up all my ingredients to get the hard stuff out of the way first. So, firstly, dice your onions and green onions (without mixing them), mince your garlic, peel and dice your sweet potato, cut your carrots in any way that suits your fancy, then slice those tomatoes. 
 
-![diced ingredients](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/coconutlentils/All%20Chopped%20Ingredients.jpg?raw=true "Chopped Up Ingredients")
+![diced ingredients](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/coconutlentils/All%20Chopped%20Ingredients.jpg?raw=true "Chopped Up Ingredients")
 
 <h2> Step 2 </h2>
 
 Next, if you have a slow-cooker, throw everything except the rice, cilantro, green onions, and coconut milk on high for 4-5 hours. If you don't, pull out your biggest pot, and cook the white onion, carrots, and garlic for about three minutes. 
 
 
-![carrotsoniongarliccooking](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/coconutlentils/Adding%20OnionCarrots.jpg?raw=true "Carrots, Onion, Garlic, Coooking")
+![carrotsoniongarliccooking](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/coconutlentils/Adding%20OnionCarrots.jpg?raw=true"Carrots, Onion, Garlic, Coooking")
 
 <h2> Step 3 </h2>
 
 Once those have cooked down (the carrots should be slightly softer and the onion relatively see-through, about 3-5 minutes), add the diced tomatoes, diced sweet potato, curry powder, cloves, can of tomatoes, 3 cups of water, and 3 vegetable bouillon cubes (you can opt to use 3 cups of vegetable broth instead of the water and bouillon cubes).
 
-![addedingredients](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/coconutlentils/Adding%20SpicesTomato.jpg?raw=true "Added Ingredients")
+![addedingredients](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/coconutlentils/Adding%20SpicesTomato.jpg?raw=true "Added Ingredients")
 
 <h2> Step 4 </h2>
 
 Let that cook down for about 3 minutes, then add in your 2 cups of lentils. I used green lentils because they were the cheapest and most readily accessible to me, however, you can use any that you'd like! One of the best things about this dish is that you are able to customize it to fit your personal tastes. 
 
-![addedingredients](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/coconutlentils/Adding%20Lentils.jpg?raw=true "Added Ingredients")
+![addedingredients](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/coconutlentils/Adding%20Lentils.jpg?raw=true "Added Ingredients")
 
 <h2> Step 5 </h2>
 While this was cooking, I used my rice cooker to make the rice! I added three cups of dry rice plus 3.5 cups of water to my rice cooker, and this created 6 cups of rice exactly! I topped the rice with some cilantro and green onions then served it in my meal prep containers. 
@@ -72,4 +72,4 @@ Let it cook! I cooked mine on the stove top for about 1-2 hours. However, I real
 I let this whole mixture cool then put it into individual serving containers for lunch! The additional .75 cups I had left over, I put into a container to freeze for later. Don't forget to top the servings with some chopped red and green onions!
 
 
-![Coconut Curry Lentils](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/coconutlentils/Close%20Up%20of%20Lentils.jpg?raw=true "Finished Coconut Curry Lentils")
+![Coconut Curry Lentils](https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/coconutlentils/Close%20Up%20of%20Lentils.jpg?raw=true "Finished Coconut Curry Lentils")

@@ -13,7 +13,7 @@ While I was on the fence about cooking chicken as part of a meal-prep week becau
 
 All-in-all, this meal was super easy and quick to cook and I have been looking forward to lunch every day because I get to munch down on this originally questionable meal choice. 
 
-![Close up of chicken curry] (https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/chickencurrysalad/Close%20Up%20of%20Chicken%20Curry.jpg?raw=true "Finished Chicken Curry Salad")
+![chickencurrycloseup](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/chickencurrysalad/Close%20Up%20of%20Chicken%20Curry.jpg?raw=true "Close Up of Chicken Curry")
 
 Here are the ingredients you'll need to cook this dish! All together it made 6 servings of 1 cups each (so just about 6 cups), with each serving only costing your wallet $1.36 and waistline 247 calories. 
 
@@ -62,4 +62,4 @@ While the chicken is cooling down, we can go ahead and make the sauce! To a larg
 <h2> Step 5 </h2>
 Lastly, just add the chopped ingredients, chicken, and raisins to the sauce and mix everything together! It should be coated in the mixture but not dripping. Take the deliciousness that you've just created, put it on a plate (or other storage container), top with some fresh green and red onion, then eat! I choose to serve it with some crackers on the side for extra crunch. 
 
-![Close up of chicken curry] (https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/chickencurrysalad/Close%20Up%20of%20Chicken%20Curry.jpg?raw=true "Finished Chicken Curry Salad")
+![chickencurrycloseup](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/chickencurrysalad/Close%20Up%20of%20Chicken%20Curry.jpg?raw=true "Close Up of Chicken Curry")

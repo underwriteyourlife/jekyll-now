@@ -62,11 +62,14 @@ Let that cook down for about 3 minutes, then add in your 2 cups of lentils. I us
 
 ![addedingredients](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/coconutlentils/Adding%20Lentils.jpg?raw=true "Added Ingredients")
 
-<2> Step 5 </h2>
+<h2> Step 5 </h2>
+While this was cooking, I used my rice cooker to make the rice! I added three cups of dry rice plus 3.5 cups of water to my rice cooker, and this created 6 cups of rice exactly! I topped the rice with some cilantro and green onions then served it in my meal prep containers. 
+
+<h2> Step 6 </h2>
 
 Let it cook! I cooked mine on the stove top for about 1-2 hours. However, I realized pretty late into it that my gas bill was going to be exorbitant if I kept using the stove top like that, so I decided to just stick a lid on it and let it sit in its own warmth. I kept an eye on the mixture until it was fully thickened (all the water had been cooked through), which was about 30 minutes. After that, I added the entire can of coconut milk (YUM). I turned back on the stove top on low for an additional 10 minutes, until the coconut milk had thickened. 
 
-I let this whole mixture cool then put it into individual serving containers for lunch! The additonal .75 cups I had left over, I put into a container to freeze for later. 
+I let this whole mixture cool then put it into individual serving containers for lunch! The additonal .75 cups I had left over, I put into a container to freeze for later. Don't forget to top the servings with some chopped red and green onions!
 
 
 ![Coconut Curry Lentils](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/coconutlentils/Close%20Up%20of%20Lentils.jpg?raw=true "Finished Coconut Curry Lentils")

@@ -95,6 +95,6 @@ defaults:
   path: ""
   type: category
   values:
-  layout: "Meal Prep"
+  layout: "category"
   
 

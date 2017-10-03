@@ -97,5 +97,4 @@ defaults:
   values:
   layout: "Meal Prep"
   
-paginate_per_category: true
-default_category: "en"
+

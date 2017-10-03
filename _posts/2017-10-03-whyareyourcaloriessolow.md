@@ -3,8 +3,8 @@ layout: post
 title: Why are your meal prep calories so low?
 preview: A question I get a lot is why my daily calories are so low...
 categories:
-  -"mealprep"
-  -"q&a"
+- "mealprep"
+- "q&a"
 ---
 
 A question that a lot of people, specifically off of Reddit where I post photos of my weekly meal preps, ask is "why are your calories so low?". Its a good question! For most people 1300ish kcal/day is not nearly enough to maintain their weight. 

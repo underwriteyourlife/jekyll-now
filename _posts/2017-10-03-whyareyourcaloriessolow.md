@@ -7,7 +7,7 @@ categories:
 - "q&a"
 ---
 
-A question that a lot of people, specifically off of Reddit where I post photos of my weekly meal preps, ask is "why are your calories so low?". Its a good question! For most people 1300ish kcal/day is not nearly enough to maintain their weight. 
+A question that a lot of people, specifically people from Reddit, ask is "why are your calories so low?". Its a good question! For most people 1300ish kcal/day is not nearly enough to maintain their weight. 
 
 I appreciate the support I get from people who clarify that different people have different needs. As a 130 pound woman, I do not need as many calories as my 210 pound boyfriend. However, I do realize that this number is lower than what I need to maintain my weight. But don't worry! I do eat stuff other than what I meal prep, and its for that reason in particular that I choose to meal prep lower-calorie dishes. 
 

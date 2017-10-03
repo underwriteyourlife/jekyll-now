@@ -53,7 +53,7 @@ Next, while the yeast is sitting, melt 2 tbsp of margarine and 3 tbsp of pumpkin
 
 Only cook it for long enough that it is soft and melted. If it is too hot, it will kill the yeast. So be sure to let it cool a bit before moving on to the next step. 
 
-![meltingbutter](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/pumpkinrolls/Melting%20Cream%20Cheese%20and%20Buttter.jpg?raw=true "meltingbutter)
+![melting](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/pumpkinrolls/Melting%20Cream%20Cheese%20and%20Buttter.jpg?raw=true "Melting Butter and Cream Cheese")
 
 <h2> Step 3 </h2>
 

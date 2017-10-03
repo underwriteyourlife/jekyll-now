@@ -1,4 +1,4 @@
 ---
 tag: Meal Prep Photo
-permalink: "/category/mealprepphotos
+permalink: "/category/mealprepphotos"
 ---

@@ -8,7 +8,7 @@ I will be posting about how each of them held out throughout the week this weeke
 
 First, I decided to stew some coconut curry lentils with cilantro white rice for dinner LINK. While that was cooking, I whipped up some chicken curry salad for lunch LINK, then finished with some seasonal pumpkin-spiced bread rolls LINK. I claim the bread rolls are for breakfast, but I definitely can't resist eating a few of them after dinner as well. They are delicious!
 
-INSERT PHOTO HERE
+![week 4 finished product](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/Week%204%20Finished%20Product.jpg?raw=true "Week 4 Finished Meal Prep")
 
 In case you don't want to click on each recipe individually, all the ingredients you'll need to make this week's meal prep are below:
 

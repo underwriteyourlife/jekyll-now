@@ -6,13 +6,13 @@ layout: default
   {% for post in site.mealprepposts %}
     <article class="mealpreppost">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ mealpreppost.url }}">{{ mealpreppost.title }}</a></h1>
 
       <div class="entry">
-        {{ post.excerpt }}
+        {{ mealpreppost.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ mealpreppost.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>

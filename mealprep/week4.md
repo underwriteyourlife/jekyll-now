@@ -6,7 +6,7 @@ title: Week 4 Meal Prep
 So for week 4 I decided to stir up a few new dishes that I am very excited to dig into!
 I will be posting about how each of them held out throughout the week this weekend (including photos!) so be sure to check back. 
 
-First, I decided to stew some coconut curry lentils with cilantro white rice for dinner LINK. While that was cooking, I whipped up some chicken curry salad for lunch LINK, then finished with some seasonal pumpkin-spiced bread rolls LINK. I claim the bread rolls are for breakfast, but I definitely can't resist eating a few of them after dinner as well. They are delicious!
+First, I decided to stew some [coconut curry lentils with cilantro white rice](https://www.underwriteyourlife.com/coconutcurrylentils "Coconut Curry Lentils") for dinner. While that was cooking, I whipped up some [chicken curry salad](https://www.underwriteyourlife.com/chickencurrysalad "Chicken Curry Salad") for lunch, then finished with some seasonal [pumpkin-spiced bread rolls](http://www.underwriteyourlife.com/pumpkinspicedbreadrolls "Pumpkin Spiced Bread Rolls"). I claim the bread rolls are for breakfast, but I definitely can't resist eating a few of them after dinner as well. They are delicious! The week cost a total of $2.11 per meal and all together represent 1366 kcal/day (377 for chicken curry salad, 656 for coconut lentils, and 333 for 4 bread rolls). 
 
 ![week 4 finished product](https://github.com/underwriteyourlife/underwriteyourlife.github.io/blob/master/images/mealprep/week4/Week%204%20Finished%20Product.jpg?raw=true "Week 4 Finished Meal Prep")
 
@@ -47,4 +47,8 @@ Celery|	4	stalks	| $1.25 |	30
 Green Apple|	1	|	 $1.29 |	100
 Raisins	|0.5	cup|	 $0.57 |	240
 
-All of this comes out to a grand total of $25.34, or $1.41/meal (if you include the rolls as a meal) or $2.11 (if you only count the traditional dishes as meals). For me, it produced 6 lunchs and 6 dinners. If you are looking to increase your calories or if you think that may not be enough, you can always add more lean meats for protein or make double. 
+All of this comes out to a grand total of $25.34, or:
+$1.41/meal (if you include the rolls as a meal) or:
+$2.11 (if you only count the traditional dishes as meals)
+
+For me, it produced 6 lunches and 6 dinners. If you are looking to increase your calories, or if you think that may not be enough, you can always add more lean meats for protein or make double. 

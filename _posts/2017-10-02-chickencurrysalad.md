@@ -2,6 +2,7 @@
 layout: post
 title: Chicken Curry Salad
 preview: Sometimes I put the word salad into recipes to make them feel healthier than they are...
+thumbnail: https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/chickencurrysalad/Close%20Up%20of%20Chicken%20Curry.jpg?raw=true
 categories:
 - "recipes"
 - "recipephotos"

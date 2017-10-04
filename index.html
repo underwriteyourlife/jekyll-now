@@ -7,8 +7,8 @@ layout: default
     <article class="post">
 
     <!--  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>  -->
-      
-      <div class="titlepreviewandthumbnail"
+      <div class="leftContent">
+        <div class="titlepreviewandthumbnail"
            <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}"/>
            <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
               <div class="entry">
@@ -16,6 +16,11 @@ layout: default
               </div>
            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </div>
+      </div>
+      <div class="rightBar">
+        <p> Right bar here </p>
+      </div>
+  
     </article>
   {% endfor %}
 </div>

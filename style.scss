@@ -201,6 +201,16 @@ img {
     color: white;
 }
 
+.masthead img {
+    margin-right: 15px;
+    width: 250px;
+    float: left;
+}
+
+.masthead img.hover {
+    background-color: #f2f2f2
+}
+
 .site-avatar {
   float: left;
   /*width: 350px;*/

@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<div class="posts">
+<div class="posts" width="60%" align="left">
   {% for post in site.posts %}
     <article class="post">
 
     <!--  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>  -->
       
-        <div class="titlepreviewandthumbnail" width="60%">
+        <div class="titlepreviewandthumbnail">
            <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}"/>
            <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
               <div class="entry">
@@ -22,7 +22,7 @@ layout: default
   {% endfor %}
 </div>
   
-<div class="posts">
+<div class="posts" width="40%" align="right">
   {% for post in site.categories.recipes %}
     <article class="post">
 

@@ -8,7 +8,7 @@ layout: default
 
     <!--  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>  -->
       <table>
-        <tr>
+        <tr width="50%">
             <div class="titlepreviewandthumbnail"
               <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}"/>
               <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -18,7 +18,7 @@ layout: default
               <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
             </div>
         </tr>
-        <tr>
+        <tr width="50%">
           <div class="titlepreviewandthumbnails">
               {% for post in site.categories.recipes %}
                 <article class="post">

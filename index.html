@@ -7,17 +7,21 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.preview }}
-      </div>
-      
-      <div>
-        <a href="{{ post.url }}" >
-          <div style="float: right;">
-            <img width="200" src="{{ post.thumbnail }}" />
-          </div>
-      </div>
+      <table style="width:100%">
+        <tr>
+          <td>         
+            <div class="entry">
+            {{ post.preview }}
+            </div>
+          </td>
+          
+          <td>
+             <div>
+             <a href="{{ post.url }}" ><img width="200" src="{{ post.thumbnail }}"/>
+             </div>
+          </td>
+        </tr>
+      </table>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>

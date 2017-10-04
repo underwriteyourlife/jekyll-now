@@ -187,18 +187,28 @@ img {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+	
+	@include mobile {
+    text-align: center;
+  }
 }
 
 /* Change the color of links on hover */
 .masthead a:hover {
     background-color: #ddd;
     color: black;
+		@include mobile {
+    text-align: center;
+  }
 }
 
 /* Add a color to the active/current link */
 .masthead a.active {
     background-color: #4CAF50;
     color: white;
+		@include mobile {
+    text-align: center;
+  }
 }
 
 .masthead img {
@@ -206,6 +216,9 @@ img {
     margin-top: 2px;
     width: 150px;
     float: left;
+		@include mobile {
+    text-align: center;
+  }
 }
 
 .site-avatar {

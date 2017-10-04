@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pumpkin-Spiced Bread Rolls
+thumbnail: https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/pumpkinrolls/Close-Up%20of%20Pumpkin%20Rolls.jpg?raw=true
 preview: Sometimes I try to not be a sterotypical white American 20-something female. Other times I just embrace it. 
 categories:
 - "recipes"

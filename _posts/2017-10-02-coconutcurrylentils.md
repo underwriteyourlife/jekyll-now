@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Coconut Curry Lentils with Cilantro Rice
+thumbnail: https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/mealprep/week4/coconutlentils/Close%20Up%20of%20Lentils.jpg?raw=true
 preview: These coconut curry lentils are healthy, filling, and expecially delicious. The flexible recipe gives you the opportunity to add and subtract to suit your own personal tastes 
 categories:
 - "recipes"

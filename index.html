@@ -22,10 +22,20 @@ layout: default
   {% endfor %}
 </div>
   
-<div class="rightside" width="40%">
+<div class="posts">
+  {% for post in site.categories.sidebarworthy %}
+    <article class="post">
 
-    <h1> here </h1>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
+      <div class="entry">
+        {{ post.preview }}
+
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
 </div>
   
 

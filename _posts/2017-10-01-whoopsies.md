@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Posting Recipe Failures 
+thumbnail: https://github.com/underwriteyourlife/underwriteyourlife-WEBSITE/blob/master/images/logo/Little-Pig-Coins-Saving-Drawing-Money-Piggy-Bank-1022852.png?raw=true
 preview: We all make mistakes... right?
 ---
 

@@ -172,11 +172,9 @@ img {
   background-color: #333;
   overflow: hidden;
   border-bottom: 1px solid $lightGray;
-  position: fixed;
 
   @include mobile {
     text-align: center;
-    position: relative;
   }
 }
 
